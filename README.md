@@ -6,9 +6,9 @@
   
    Formação: Formado em Gestão de T.I, FACULDADE ENIAC Experiencia Profissional: 11 anos na area de Tecnlogia trabalhando em:
    
-   Suporte de Hardware :manutençao de computadores, instalação de estruturas de redes, manutenção de impressoras fiscais - ECF , conhecimento avançado na area de automação comercial,
+   Suporte de Hardware : Manutençao de computadores, instalação de estruturas de redes, manutenção de impressoras fiscais - ECF , conhecimento avançado na area de automação comercial,
 
-   Suporte em Software: em sistemas para automação comercial, aplicação de soluçõs básicas e intermediárias em sistemas de automação comercial,experiência na área de atendimento, Vendas e Representação Comercial)
+   Suporte em Software: sistemas para automação comercial, aplicação de soluçõs básicas e intermediárias em sistemas de automação comercial,experiência na área de atendimento, Vendas e Representação Comercial)
 
    Funções exercidas: auxiliar eletronica 1, auxiliar eletronica 2, analista de sistema 1, analista de sistemas 2, Representante Comercial area técnica. Função Atual: Gerente departamento de Software (software terceirizado)
 
