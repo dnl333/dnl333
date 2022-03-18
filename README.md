@@ -10,7 +10,7 @@
 
    Suporte em Software: sistemas para automação comercial, aplicação de soluçõs básicas e intermediárias em sistemas de automação comercial,experiência na área de atendimento, Vendas e Representação Comercial.
 
-   Funções exercidas: auxiliar eletronica I, auxiliar eletronica II, analista de sistema I, analista de sistemas II, Representante Comercial area técnica. Função Atual: Gerente departamento de Software (software terceirizado)
+   Funções exercidas: Auxiliar Eletronica I, Auxiliar Eletronica II, Analista de Sistema I, Analista de Aistemas II, Representante Comercial Área Técnica. Função Atual: Gerente departamento de Software (software terceirizado)
 
    BUSCANDO CONHECIMENTOS NA AREA DA PROGRAMAÇÃO EM DETERMINADAS LINGUAGENS: HTML5,CSS3,BOOTSTRAP,JQUERY,REACT NODE.JS,FIREBASE,MONGO.DB</h2>
 </div>
