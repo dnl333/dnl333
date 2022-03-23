@@ -1,6 +1,8 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <i>Daniel Moretto</i></a></h1>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnl333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align=height="180em" src="https://github-readme-stats.vercel.app/api?username=dnl333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height= "180em" width="350em" src="https://user-images.githubusercontent.com/100226246/159785167-846a7b93-b751-413d-b80c-9263a3c8bf51.gif"
+
   
   
   </a><br>
