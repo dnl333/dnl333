@@ -1,5 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <i>Daniel Moretto</i></a> 😃️</h1>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnl333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
   </a><br>
   <p align="center">Sou nascido na data de 25/11/1992, Natural de SP capital, Casado, tenho uma Filha.
