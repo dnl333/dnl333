@@ -5,8 +5,8 @@
 
   
   
-  </a><br>
-  <p align="center">Sou nascido na data de 25/11/1992, Natural de SP capital, Casado, tenho uma Filha.
+  <br>
+  <h4 style="texte-align" align="center">Sou nascido na data de 25/11/1992, Natural de SP capital, Casado, tenho uma Filha.
   
    Formação: Formado em Gestão de T.I, FACULDADE ENIAC Experiencia Profissional: 11 anos na area de Tecnlogia trabalhando em:
    
@@ -14,9 +14,11 @@
 
    Suporte em Software: sistemas para automação comercial, aplicação de soluçõs básicas e intermediárias em sistemas de automação comercial,experiência na área de atendimento, Vendas e Representação Comercial.
 
-   Funções exercidas: Auxiliar Eletronica I, Auxiliar Eletronica II, Analista de Sistema I, Analista de Aistemas II, Representante Comercial Área Técnica. Função Atual: Gerente departamento de Software (software terceirizado)
+   Funções exercidas: Auxiliar Eletronica I, Auxiliar Eletronica II, Analista de Sistema I, Analista de Aistemas II, Representante Comercial Área Técnica. Função Atual: Gerente departamento de Software (software terceirizado)<br>
+   
+  BUSCANDO CONHECIMENTOS NA AREA DA PROGRAMAÇÃO EM DETERMINADAS LINGUAGENS: HTML5,CSS3,BOOTSTRAP,JQUERY,REACT NODE.JS,FIREBASE,MONGO.DB</h4>
 
-   BUSCANDO CONHECIMENTOS NA AREA DA PROGRAMAÇÃO EM DETERMINADAS LINGUAGENS: HTML5,CSS3,BOOTSTRAP,JQUERY,REACT NODE.JS,FIREBASE,MONGO.DB</h2>
+  
 </div>
 
 
