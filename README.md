@@ -6,7 +6,7 @@
   
   
   <br>
-  <h4 style="texte-align" align="center">Sou nascido na data de 25/11/1992, Natural de SP capital, Casado, tenho uma Filha.
+  <h4 style="texte-align" align="center">Sou nascido na data de 25/11/1992, Natural de SP capital, Casado, tenho uma Filha.<br>
   
    Formação: Formado em Gestão de T.I, FACULDADE ENIAC Experiencia Profissional: 11 anos na area de Tecnlogia trabalhando em:
    
