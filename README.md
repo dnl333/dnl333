@@ -10,7 +10,7 @@
   
    Formação: Formado em Gestão de T.I, FACULDADE ENIAC Experiencia Profissional: 11 anos na area de Tecnlogia trabalhando em:
    
-   Suporte de Hardware : Manutençao de computadores, instalação de estruturas de redes, manutenção de impressoras fiscais - ECF , conhecimento avançado na area de automação comercial,
+   Suporte de Hardware : Manutenção de computadores, instalação de estruturas de redes, manutenção de impressoras fiscais - ECF , conhecimento avançado na area de automação comercial,
 
    Suporte em Software: sistemas para automação comercial, aplicação de soluçõs básicas e intermediárias em sistemas de automação comercial,experiência na área de atendimento, Vendas e Representação Comercial.
 
